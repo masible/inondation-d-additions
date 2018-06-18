@@ -15,8 +15,8 @@ following on from the “Plan Informatique pour Tous” launched in 1985.
 
 ## Links
 
-(Thomson TO9)[https://fr.wikipedia.org/wiki/Thomson_TO9]
-(Plan informatique pour tous)[https://fr.wikipedia.org/wiki/Plan_informatique_pour_tous]
+[Thomson TO9](https://fr.wikipedia.org/wiki/Thomson_TO9)
+[Plan informatique pour tous](https://fr.wikipedia.org/wiki/Plan_informatique_pour_tous)
 
 ## Copyright
 
